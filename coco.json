@@ -1,0 +1,47 @@
+{
+    "productos": [
+        {
+            "nombre": "Redmi note 11",
+            "categoria": "Telefono",
+            "precio": 100,
+            "cantidad disponible": 200,
+            "Marca": "xiaomi",
+            "descuento": 10,
+            "caracteristicas": {
+                "pantalla": 6.5,
+                "almacenamiento": "125gb",
+                "camara": "12mp"
+            },
+            "etiquetas":["nuevo","oferta"],
+            "ventas_historicas": 50,
+            "metodo_pago_preferido":"Financiacion"
+        },
+        {
+            "nombre": "Lenovo",
+            "categoria": "PC",
+            "precio": 400,
+            "cantidad disponible": 100,
+            "Marca": "Lenovo",
+            "descuento": 15,
+            "caracteristicas": {
+                "ram": 16,
+                "almacenamiento": "499gb",
+                "procesador": "intel i9"
+            },
+            "etiquetas":["rebajas"]
+        },
+        {
+            "nombre": "Camara DSLR CANON EOS 80D",
+            "categoria": "camara",
+            "precio": 999.99,
+            "cantidad disponible": 50,
+            "Marca": "Canon",
+            "descuento": 0,
+            "caracteristicas": {
+                "resolucion": "24.2mp",
+                "pantalla": "tactil",
+                "video": "Full HD"
+            }
+        }
+    ]
+}
