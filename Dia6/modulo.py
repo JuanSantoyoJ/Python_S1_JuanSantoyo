@@ -1,6 +1,4 @@
 #FUNCION PARA VER LA LISTA
-from Funciones import *
-
 def VerLista(nombres, apellidos):
     for i in range(len(nombres)):
         NombresCompletos = " ".join(nombres[i]) + " " + " ".join(apellidos[i])

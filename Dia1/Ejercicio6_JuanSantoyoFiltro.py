@@ -1,3 +1,4 @@
+# Descripción: Programa que calcula el salario neto de N empleados, teniendo en cuenta que el valor de la hora
 N = int(input("Ingrese el número de empleados: "))
 valor_hora = 20000
 sueldos_brutos = []
@@ -41,3 +42,4 @@ print(f"Promedio sueldo bruto: $", promedio_bruto)
 print(f"Promedio sueldo neto: $", promedio_neto)
 print(f"Empleado que más gana: {nombre[indice_mayor]} (${sueldos_netos[indice_mayor]:.2f})")
 print(f"Empleado que menos gana: {nombre[indice_menor]} (${sueldos_netos[indice_menor]:.2f})")
+#Desarrollado por Juan David Santoyo Jaimes / T.I: 1099740117

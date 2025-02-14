@@ -13,4 +13,4 @@ if suma1==n2 and suma2==n1:
     print(n1," y ",n2," Son numeros amigos" )
 else:
     print("No son numeros amigos")
-#Desarrolado Juan David Santoyo Jaimes 
+#Desarrollado por Juan David Santoyo Jaimes / T.I: 1099740117

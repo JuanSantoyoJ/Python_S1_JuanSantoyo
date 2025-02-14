@@ -27,7 +27,7 @@ while inicio == True:
             print("Cantidad disponible:",Electrodomesticos["productos"][i]["cantidad disponible"])
             print("Marca:",Electrodomesticos["productos"][i]["Marca"])
             print("Descuento:",Electrodomesticos["productos"][i]["descuento"])
-            print("Caracteristicas:",Electrodomesticos["productos"][i]["nombre"]["caracteristicas"])
+            print("Caracteristicas:",Electrodomesticos["productos"][i]["caracteristicas"])
 
             
     if opc==5:

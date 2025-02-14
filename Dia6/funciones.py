@@ -1,3 +1,4 @@
+from modulo import *
 
 nombres = [
     ["Adrián"],
